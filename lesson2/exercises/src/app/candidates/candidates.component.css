@@ -4,6 +4,7 @@
 
 .data {
     color: brown;
+    white-space: pre;
 }
 
 img {
